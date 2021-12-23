@@ -1,0 +1,5 @@
+charmander:{'quantity': 3, 'fee': 100, 'powers': ['fire']}
+squirtle:{'quantity': 2, 'fee': 50, 'powers': ['water']}
+bulbasaur:{'quantity': 5, 'fee': 25, 'powers': ['grass']}
+gyrados:{'quantity': 1, 'fee': 1000, 'powers': ['water', 'flying']}
+pikachu:{'quantity': 10, 'fee': 25.0, 'powers': ['electric']}
